@@ -1,0 +1,6 @@
+wheel
+Flask
+telegram 
+python-telegram-bot
+requests
+python-dotenv
